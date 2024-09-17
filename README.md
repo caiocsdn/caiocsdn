@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=13B500&width=435&lines=Welcome+to+my+Github+profile!;Hi%2C+everyone!+I'm+Caio+C%C3%A9sar.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=13B500&width=435&lines=Welcome+to+my+Github+profile!;Hi%2C+everyone!+I'm+Caio+C%C3%A9sar.)](https://git.io/typing-svg)
 
 ### Technologies and tools:
 
