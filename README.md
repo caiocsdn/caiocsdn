@@ -18,4 +18,4 @@
 <br>
 <br>
 
-![caiocsdn GitHub stats](https://github-readme-stats.vercel.app/api?username=caiocsdn&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiocsdn&layout=compact)
